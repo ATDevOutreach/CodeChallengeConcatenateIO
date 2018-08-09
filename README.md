@@ -1,4 +1,4 @@
-# Concatenate.io Code Challenge: Knockout Round
+# Concatenate.io Code Challenge
 ## Due: 15th August,2018 or Earlier
 #### This code challenge is due on the 15th of August,2018 or earlier. 
 
@@ -23,7 +23,7 @@ You can participate on as many challenges as you wish:
   - This is the first phase of the CodeChallenge and upon successful completion, you will be entered into the second and final round of the challenge
 
 ## Code Challenge Bounty:
-  - Proceed to the Final Round 😎
+  - A brand new Sony PlayStation 4 😎
 
 ## Task
 In this code challenge you should create a USSD application that is able to send airtime as well as an SMS notification confirming the airtime has been sent. You can add more functionality to the USSD application. You can add more levels to your USSD application with any functionality based on our APIs or other services.
