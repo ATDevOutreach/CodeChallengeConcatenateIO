@@ -1,6 +1,6 @@
 # Concatenate.io Code Challenge
-## Due: 15th August,2018 or Earlier
-#### This code challenge is due on the 15th of August,2018 or earlier. 
+## Due: 12th August,2018 or Earlier
+#### This code challenge is due on the 12th of August,2018 or earlier. 
 
 ## Simple Unchanging Rules
 The code challenge is and will always be judged using the following criteria
@@ -25,19 +25,42 @@ You can participate on as many challenges as you wish:
 ## Code Challenge Bounty:
   - A brand new Sony PlayStation 4 😎
 
-## Task
-In this code challenge you should create a USSD application that is able to send airtime as well as an SMS notification confirming the airtime has been sent. You can add more functionality to the USSD application. You can add more levels to your USSD application with any functionality based on our APIs or other services.
+This code challenge is in two parts:
+
+## Part One
+
+### Task
+
+In the first part of this code challenge, you should create a USSD application that is able to send airtime as well as an SMS notification confirming the airtime has been sent. You can add more functionality to the USSD application. You can add more levels to your USSD application with any functionality based on our APIs or other services.
 
 In the SMS front, the response that the user gets is a two-way SMS that allows you to get feedback from the user regarding the service provided. Try make it as conversational as possible.
 
 Remember that the code you use on this code challenge will inform the next round. 
 
-### Task Workflow:
+#### Task Workflow:
 1. User initiates the USSD application
 2. Your app responds with the various options among them being the Airtime 
 3. The user enters the amount of airtime that needs to be sent 
 4. Once sent, a confirmation SMS is sent to the user.
 5. The SMS is two way. You should have an interaction asking the user for feedback on the service.
+5. Ensure your service is accessible online. You can use the free tiers of [Heroku](https://www.heroku.com/) or [Openshift](https://www.openshift.com/) or other platform of choice.
+6. We will be testing your solution on the [AT Sandbox](https://account.africastalking.com/apps/sandbox)
+
+## Part Two
+
+### Task
+
+This is the second part of the challenge 
+
+In this bit of the code challenge, you should create a webapp that is able to manipulate the text that appears on the USSD levels as well as change the messages sent during the two way SMS interaction with the user. 
+
+You can use whichever front-end technologies that you deem worthy of this project. 
+
+#### Task Workflow:
+1. User accesses your app on the web
+2. They are able to access pages that allow them to edit the text on the USSD levels
+3. They are able to access pages that allow them to edit the text on the SMS interaction
+4. Once changes are saved they should be able to see the changes on your USSD and SMS replies
 5. Ensure your service is accessible online. You can use the free tiers of [Heroku](https://www.heroku.com/) or [Openshift](https://www.openshift.com/) or other platform of choice.
 6. We will be testing your solution on the [AT Sandbox](https://account.africastalking.com/apps/sandbox)
 
