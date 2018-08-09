@@ -25,6 +25,9 @@ You can participate on as many challenges as you wish:
 ## Code Challenge Bounty:
   - A brand new Sony PlayStation 4 😎
 
+
+
+
 This code challenge is in two parts:
 
 ## Part One
