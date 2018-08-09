@@ -39,6 +39,7 @@ Remember that the code you use on this code challenge will inform the next round
 4. Once sent, a confirmation SMS is sent to the user.
 5. The SMS is two way. You should have an interaction asking the user for feedback on the service.
 5. Ensure your service is accessible online. You can use the free tiers of [Heroku](https://www.heroku.com/) or [Openshift](https://www.openshift.com/) or other platform of choice.
+6. We will be testing your solution on the [AT Sandbox](https://account.africastalking.com/apps/sandbox)
 
 ### Additional:
 1. See the online version of the code challenge [here](http://atdevoutreach.viewdocs.io/CodeChallengeConcatenateIO/CodeChallengeConcatenateIO/) to get acquainted.
